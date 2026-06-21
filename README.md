@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://rafaygen.space">
-  <img src="./banner.gif" width="100%" alt="Rafaygen — live preview" />
+  <img src="./demo.webp" width="100%" alt="Rafaygen — live walkthrough" />
 </a>
 
 <br/><br/>
@@ -22,7 +22,7 @@
 
 ---
 
-### 👋 About
+### About
 
 ```python
 class Rafay:
@@ -32,13 +32,13 @@ class Rafay:
     philosophy = "Don't just call a model — orchestrate them."
 ```
 
-- 🧠  I build **agentic, multi-provider AI systems** — routing, generation pipelines, real artifacts.
-- ⚙️  Full-stack: streaming backends, live frontends, containerized code execution.
-- 🚀  I ship **production**, not demos — [rafaygen.space](https://rafaygen.space) is live and serving users.
+- I build **agentic, multi-provider AI systems** — routing, generation pipelines, real artifacts.
+- Full-stack: streaming backends, live frontends, containerized code execution.
+- I ship **production**, not demos — [rafaygen.space](https://rafaygen.space) is live and serving users.
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 <sub>Click any badge — it links to the real source.</sub>
 
@@ -66,7 +66,7 @@ class Rafay:
 
 ---
 
-### 🚀 Featured — [Rafaygen](https://rafaygen.space)
+### Featured — [Rafaygen](https://rafaygen.space)
 
 A **multi-provider, agentic AI workspace** that auto-routes every prompt to the
 best model, then doesn't just answer — it **builds**: live web pages, Office
@@ -81,7 +81,7 @@ files, charts, diagrams, quizzes, runnable code in 8 languages, voice & images.
 
 ---
 
-### 📊 Activity
+### Activity
 
 <div align="center">
 
